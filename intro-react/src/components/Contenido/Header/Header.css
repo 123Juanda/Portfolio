@@ -1,0 +1,19 @@
+header > img{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    
+    
+}
+
+box-name{
+    width: 80%;
+    height: 4rem;
+    display:flex;
+    justify-content: center;
+}
+
+box-name > img{
+    display: none;
+}
